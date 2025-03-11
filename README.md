@@ -23,8 +23,8 @@ Important Metrics
 7.	Average processing hours according to staff ID
 8.	Average processing time by number of customer contacts
 
-Link to Tableau Dashboard:
-https://public.tableau.com/views/ClaimProcessingEfficiencyDashboard/ClaimEfficiencyDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+Link to Tableau Dashboard: Claims Dashboards
+https://public.tableau.com/app/profile/deepa.naik/vizzes
 
 
 
